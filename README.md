@@ -1,2 +1,1 @@
-# MidtermGWeb
-ADMIN web
+# admin.babystore
